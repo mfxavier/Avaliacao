@@ -1,2 +1,1 @@
-Trabalho em Grupo
-Sistema de Avaliação de Cursos e Professores
+Group Work Course and Teacher Evaluation System
